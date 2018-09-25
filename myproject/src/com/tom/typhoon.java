@@ -8,7 +8,7 @@ public class typhoon {
 		String firstLine = ("Why!");
 		System.out.println(firstLine);
 		System.out.println("The value of firstline is ");
-		System.out.println(FirstLine);
+		System.out.println(firstLine);
 
 	}
 
